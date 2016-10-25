@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /Zend
+Disallow: /library
+Disallow: /application
+Disallow: /cgi-bin
+Disallow: /blog
+Disallow: /grwroom
